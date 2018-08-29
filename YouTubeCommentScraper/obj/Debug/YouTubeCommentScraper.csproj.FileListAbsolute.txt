@@ -1,0 +1,14 @@
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\YouTubeCommentScraper.exe.config
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\YouTubeCommentScraper.exe
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\YouTubeCommentScraper.pdb
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\WebDriver.dll
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\WebDriver.Support.dll
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\WebDriver.xml
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\WebDriver.Support.xml
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\obj\Debug\YouTubeCommentScraper.csprojAssemblyReference.cache
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\obj\Debug\YouTubeCommentScraper.csproj.CoreCompileInputs.cache
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\obj\Debug\YouTubeCommentScraper.csproj.CopyComplete
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\obj\Debug\YouTubeCommentScraper.exe
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\obj\Debug\YouTubeCommentScraper.pdb
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\WIP\YouTubeCommentScrapper\YouTubeCommentScraper\YouTubeCommentScraper\bin\Debug\Selenium.WebDriverBackedSelenium.xml
