@@ -14,7 +14,7 @@ namespace YouTubeCommentScraper
 
         {
             Initialize();
-            SearchFor.Search("thee oh sees");
+            SearchFor.Search("your search here");
             GoToFirstOption();
             ScrollToComments();
             WaitForCommentsLoad();
@@ -45,7 +45,7 @@ namespace YouTubeCommentScraper
 
         public static void StoreComments()
         {
-            FileStream fs = File.OpenWrite("C:/WIP/WebScrapping.txt");
+            FileStream fs = File.OpenWrite("C:/desktop/WebScrapping.txt");
             StreamWriter writer = new StreamWriter(fs);
 
             IList<IWebElement> ElemList = Instance.FindElements(By.Id("comment")).ToList();
