@@ -1,2 +1,2 @@
 # YoutubeCommentScrapper
-Sends comments from a selected search to a text file
+A simple web scrapping tool. The user can input a their desired Youtube search and the scrapper will execute the search. Then storing the top comments in a text file. Currently the program is set to select the top search result. Additionally it will store the first wave of comments to load. However this could me modified with an additional method to load more comments, if desired. 
