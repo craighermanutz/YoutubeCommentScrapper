@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading;
 namespace YouTubeCommentScraper
 {
-    class ScrapperMain : Driver
+    class ScraperMain : Driver
     {
         static void Main(string[] args)
 
