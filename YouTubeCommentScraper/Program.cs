@@ -69,7 +69,7 @@ namespace YouTubeCommentScraper
             Interact.SendKeys(Keys.PageDown).SendKeys(Keys.PageDown).SendKeys(Keys.PageDown).SendKeys(Keys.PageDown). 
                 SendKeys(Keys.PageDown).Build().Perform();
 
-            System.Threading.Thread.Sleep(20000);
+            System.Threading.Thread.Sleep(2000);
         }
 
         public static void GoToFirstOption()
